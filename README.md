@@ -1,5 +1,9 @@
 # Highway-Networks-and-Traffic-Simulations-in-TRANSIMS
-This is a tutorial for using TRANSIMS and QGIS in the case of Traffic simulation. I came across TRANSIMS while studying mathematical models, specifically random walks and social simulations. TRANSIMS is an excellent Traffic and Network simulator where you can create network models and generate simulated traffic on it to test your networks. The documentation on TRANSIMS can be found at https://code.google.com/archive/p/transims/ although a lot of the documentation is broken. The tutorial covers intallation, explains some of the concepts of the software and takes you through a sample simulation along with looking at GIS tools like QGIS and ArcGIS.
+This is a tutorial for using TRANSIMS and QGIS in the case of Traffic simulation. I came across TRANSIMS while studying mathematical models,
+specifically random walks and social simulations. TRANSIMS is an excellent Traffic and Network simulator where you can create network models
+and generate simulated traffic on it to test your networks. The documentation on TRANSIMS can be found at
+https://code.google.com/archive/p/transims/ although a lot of the documentation is broken. The tutorial covers intallation, explains some 
+of the concepts of the software and takes you through a sample simulation along with looking at GIS tools like QGIS and ArcGIS.
 The Abstract of the tutorial:
 
 Abstract
@@ -9,15 +13,26 @@ Advancements in technology and modern computers mean we can now simulate and ana
 
 
 References
+
 [1] Transims Google Archive.  https://code.google.com/archive/p/transims/
+
 [2] TRANSIMS Softwarehttps://sourceforge.net/projects/transims/
+
 [3] TRANSIMS Studio https://sourceforge.net/projects/transimsstudio/
+
 [4] What makes a simulation useful? [TRANSIMS], Author: S.G. Eubank           https://ieeexplore.ieee.org/document/812479
+
 [5] TRANSIMS, Wikipedia https://en.wikipedia.org/wiki/Transims
+
 [6] Transims Implementation https://github.com/DjTr1o/transims
+
 [7] Fundamentals of Transportation Networks https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Networks
+
 [8] QGIS https://www.qgis.org/en/site/
+
 [9] ArcGIS https://www.arcgis.com/home/index.html
+
 [10] EpidemicSim https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/document/6424047
+
 
 
