@@ -16,7 +16,7 @@ References
 
 [1] Transims Google Archive.  https://code.google.com/archive/p/transims/
 
-[2] TRANSIMS Softwarehttps://sourceforge.net/projects/transims/
+[2] TRANSIMS Software https://sourceforge.net/projects/transims/
 
 [3] TRANSIMS Studio https://sourceforge.net/projects/transimsstudio/
 
